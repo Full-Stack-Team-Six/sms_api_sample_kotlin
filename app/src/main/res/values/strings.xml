@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMS Kotlin Sample</string>
+    <string name="hello">Hello!</string>
+    <string name="requesting">Send Message</string>
+</resources>
